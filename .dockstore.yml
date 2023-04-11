@@ -3,7 +3,6 @@ workflows:
   - name: myco_raw
     subclass: WDL
     primaryDescriptorPath: /myco_raw.wdl
-    readMePath: /doc/myco_raw.md
     authors:
       - orcid: 0000-0003-4896-1858
   - name: myco_sra
