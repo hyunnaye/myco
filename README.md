@@ -17,6 +17,7 @@ For more information please see [./docs/inputs.md].
   * [myco_cleaned](./doc/myco_cleaned.md)
   * [myco_raw](./doc/myco_raw.md)
   * [myco_sra](./doc/myco_sra.md)
+![Flowchart of myco_sra, part 1](./doc_making_resources/myco_sra_flowchart_1.png)
 
 myco imports almost all of its code from other repos. Please see those specific repos for support with different parts of the myco pipeline:
 * Downloading reads from SRA: [SRANWRP](https://github.com/aofarrel/SRANWRP)
