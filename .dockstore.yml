@@ -8,7 +8,7 @@ workflows:
   - name: myco_sra
     subclass: WDL
     primaryDescriptorPath: /myco_sra.wdl
-    readMePath: /doc/myco_sra.md
+    readMePath: doc/myco_sra.md
     testParameterFiles:
       - /inputs/myco_sra_terra.json
       - /inputs/myco_sra_local.json
